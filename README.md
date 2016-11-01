@@ -9,3 +9,13 @@
 * 全局变量被修改的修复方法
 * 设计模式原则
 * 尾递归 尾递归优化 函数柯厘化 函数节流
+
+
+* 切词算法 SEO 搜索引擎工作原理
+* switch语句浅谈(case的值类型/case的匹配原则)
+* javascript JS文件的加载执行
+* HTML5新特性
+* 代码抽象的三个原则
+* 设置input的placeholder样式 input::input-placeholder{}
+* 函数length和arguments的length
+* JS连等赋值
