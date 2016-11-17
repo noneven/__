@@ -20,3 +20,4 @@
 * 函数length和arguments的length
 * JS连等赋值
 * Koa + Koa-Middleware vs Express + Bluebird
+* 看清BUG的本质, 不要猜想BUG应该是由于什么引起的, 如果和页面相关追踪元素的熟悉改变(页面展现<==>dom属性)
