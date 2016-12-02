@@ -40,3 +40,4 @@
 * 增量更新(diff+apply)
 
 * fontmin(特殊字体子集)
+* 随机洗牌算法 knuthShuffle
