@@ -43,3 +43,4 @@
 * 随机洗牌算法 knuthShuffle
 * cookie 同源不关心协议名和端口号
 * native跨webview通信
+* CORS兼容性
