@@ -41,3 +41,5 @@
 
 * fontmin(特殊字体子集)
 * 随机洗牌算法 knuthShuffle
+* cookie 同源不关心协议名和端口号
+* native跨webview通信
