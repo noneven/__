@@ -61,3 +61,5 @@ display: -moz-flex; /* Firefox 18+ */
 display: -ms-flexbox; /* IE 10 */
 display: flex; /* Chrome 29+, Firefox 22+, IE 11+, Opera 12.1/17/18, Android 4.4+ */
 ```
+
+* WeakSet弱引用
