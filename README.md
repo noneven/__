@@ -44,3 +44,9 @@
 * cookie 同源不关心协议名和端口号
 * native跨webview通信
 * CORS兼容性
+* IOS10 user-scalable=no/0禁止用户双击/手势缩放不生效了
+
+```
+To improve accessibility on websites in Safari, users can now pinch-to-zoom even when a website sets user-scalable=no in the viewport.
+为了提高Safari中网站的辅助功能，即使网站在视口中设置了user-scalable = no，用户也可以手动缩放。
+```
