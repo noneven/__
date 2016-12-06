@@ -50,3 +50,14 @@
 To improve accessibility on websites in Safari, users can now pinch-to-zoom even when a website sets user-scalable=no in the viewport.
 为了提高Safari中网站的辅助功能，即使网站在视口中设置了user-scalable = no，用户也可以手动缩放。
 ```
+* display: -webkit-box/flex-box/flex其实都是flex布局
+
+```
+// flex 兼容性代码
+display: -webkit-box; /* Chrome 4+, Safari 3.1, iOS Safari 3.2+ */
+display: -moz-box; /* Firefox 17- */
+display: -webkit-flex; /* Chrome 21+, Safari 6.1+, iOS Safari 7+, Opera 15/16 */
+display: -moz-flex; /* Firefox 18+ */
+display: -ms-flexbox; /* IE 10 */
+display: flex; /* Chrome 29+, Firefox 22+, IE 11+, Opera 12.1/17/18, Android 4.4+ */
+```
