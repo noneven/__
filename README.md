@@ -63,3 +63,4 @@ display: flex; /* Chrome 29+, Firefox 22+, IE 11+, Opera 12.1/17/18, Android 4.4
 ```
 
 * WeakSet弱引用
+* js在处理大整数时也会丢失精度[infoid server端下发的是一个Number类型]
