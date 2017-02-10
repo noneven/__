@@ -67,3 +67,4 @@ display: flex; /* Chrome 29+, Firefox 22+, IE 11+, Opera 12.1/17/18, Android 4.4
 * 单例+异步 会出现参数覆盖的问题
 
 * 贝塞尔曲线(css animation)cubic-bezier.com
+* 最牛逼的事情不是用了多少新技术，用了什么框架，而是思考怎么去收拾残局
